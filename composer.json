@@ -16,7 +16,7 @@
 	],
 	"require": {
 		"php": "^7.4|^8.0",
-		"syscodes/contracts": "^0.7.7",
+		"syscodes/contracts": "^0.7.7", 
 		"syscodes/core": "^0.7.7",
 		"syscodes/filesystem": "^0.7.7",
 		"syscodes/redis": "^0.7.7",
